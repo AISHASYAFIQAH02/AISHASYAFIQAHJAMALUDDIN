@@ -1,0 +1,102 @@
+h1
+{
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: 1000;
+    font-style: cue;
+}
+
+body
+{
+    background-color:black
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    color: orange;
+    padding: 50px;
+}
+
+
+.header1
+{
+    width: 100%;
+   float:none;
+   height: 35px;
+
+}
+
+.header2
+{
+    width: 100%;
+   float:none;
+   height: 35px;
+
+}
+
+.slider
+{
+    width: 100%;
+    background-color: rgb(44, 44, 44);
+    float: left;
+}
+
+.header2
+{
+    width: 100%;
+   float: left;
+   height: 40px;
+}
+
+.slider
+{
+    width: 100%;
+    background-color: ORANGE (44, 44, 44);
+    float: left;
+}
+
+.header2
+{
+    width: 100%;
+   float: left;
+   height: 40px;
+}
+
+.content1 
+{
+    color:black;
+    font-size: 23pt;
+    text-align: center;
+}
+
+.content2 
+{
+    color:ORANGE (186, 185, 185);
+    font-size: 17pt;
+    text-align: center;
+}
+
+.content6 
+{
+    color:black;
+    font-size: 17pt;
+    text-align: center;
+}
+
+.content5
+{
+    color:orange;
+    font-size: 20pt;
+    text-align: center;
+}
+
+.content7
+{
+    color:orange;
+    font-size: 23pt;
+    text-align: center;
+}
